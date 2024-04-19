@@ -1,0 +1,23 @@
+{
+  "name": "@ku-28/currency-converter",
+  "version": "1.0.2",
+  "description": " this is currency converter",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiman",
+  "license": "MIT",
+  "dependencies": {
+    "@ku-28/currency converter" : "1.0.2",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
